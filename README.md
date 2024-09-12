@@ -1,15 +1,10 @@
-- 👋 Hello world, I am @marcuspz
-- 👀 I’m interested in ... Network Security and everything IT
-- 🌱 I’m currently learning ... ITIL 4 Procedures for, the IT portion of managing a organization
-- 💞️ I’m looking to collaborate on ...New Projects, new organizations and new experience.
-- 📫 How to reach me ...GitHub
+#- 👋 Hello world, I am @marcuspz
+##- 👀 I’m interested in ... Network Security and everything IT, Open internet, Hackathons, sponsoring Open-Source projects
+      - 💞️ I’m looking to collaborate on ...New Projects, new organizations and new experience.
+         - 📫 How to reach me ...contact email by prefrence: mp.symptom129@passinbox.com
 
 <!---
-mperzz/mperzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!---
+my real name Marcus Perez this is just a <copy> of a GNU
 <this is only a copy of the GNU not applicaple for use in this instance, simply a referance, just the text verbatem does not actually apply to any development.>
    
 Copyright (C) 2024  Marcus Perez
@@ -23,3 +18,4 @@ Copyright (C) 2024  Marcus Perez
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details
+                                                                   ---.>
